@@ -1,0 +1,14 @@
+BBC_RSS_Reader.Program+BBCInformation
+{
+  "title": "BBC News - UK",
+  "link": "http://www.bbc.co.uk/news/",
+  "description": "BBC News - UK",
+  "items": [
+    {
+      "title": "Ex-DJ Chris Denning admits child sex offences",
+      "description": "Former BBC Radio 1 DJ Chris Denning pleads guilty to 21 child sex offences between 1969 and 1986, following a police inquiry into a popular teenage disco which ran for four decades in Surrey.",
+      "link": "http://www.bbc.co.uk/news/uk-37154763",
+      "date": "Mon, 22 Aug 2016 12:44:11 GMT"
+    }
+  ]
+}

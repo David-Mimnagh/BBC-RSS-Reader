@@ -1,0 +1,399 @@
+BBC_RSS_Reader.Program+BBCInformation
+{
+  "title": "BBC News - UK",
+  "link": "http://www.bbc.co.uk/news/",
+  "description": "BBC News - UK",
+  "items": [
+    {
+      "title": "Ex-DJ Chris Denning admits child sex offences",
+      "description": "Former BBC Radio 1 DJ Chris Denning pleads guilty to 21 child sex offences between 1969 and 1986, following a police inquiry into a popular teenage disco which ran for four decades in Surrey.",
+      "link": "http://www.bbc.co.uk/news/uk-37154763",
+      "date": "Mon, 22 Aug 2016 12:44:11 GMT"
+    },
+    {
+      "title": "Prison extremists to be put in special units in jails",
+      "description": "Extremist prisoners who \"seek to poison the minds of others\" will be put in special units in England and Wales, Justice Secretary Liz Truss has said.",
+      "link": "http://www.bbc.co.uk/news/uk-37151089",
+      "date": "Mon, 22 Aug 2016 14:17:02 GMT"
+    },
+    {
+      "title": "Three rescues for holidaymaker cut off by Cornwall tide",
+      "description": "A young woman holidaying in Cornwall is rescued by the same lifeboat crew three times in four days after being cut off by the tide.",
+      "link": "http://www.bbc.co.uk/news/uk-england-cornwall-37154028",
+      "date": "Mon, 22 Aug 2016 13:28:08 GMT"
+    },
+    {
+      "title": "Briton 'dies defusing Islamic State bomb' in Iraq",
+      "description": "A British citizen has been killed in Iraq trying to defuse a bomb left by the so-called Islamic State group, US contractor Janus says.",
+      "link": "http://www.bbc.co.uk/news/uk-37156415",
+      "date": "Mon, 22 Aug 2016 15:10:08 GMT"
+    },
+    {
+      "title": "Labour leadership: Ballot papers for contest being sent out",
+      "description": "The two candidates to become Labour leader urge members to back them as ballot papers begin to be sent to nearly 650,000 people.",
+      "link": "http://www.bbc.co.uk/news/uk-politics-37150553",
+      "date": "Mon, 22 Aug 2016 13:55:42 GMT"
+    },
+    {
+      "title": "Drones seized over HMP Pentonville carrying drugs and phones",
+      "description": "Drones carrying larges amounts of drugs and mobile phones are intercepted by police as they were being flown near a north London jail.",
+      "link": "http://www.bbc.co.uk/news/uk-england-london-37152665",
+      "date": "Mon, 22 Aug 2016 13:06:50 GMT"
+    },
+    {
+      "title": "Lecturer admits killing wife in 'stabbing frenzy' as children slept",
+      "description": "A college lecturer admits killing his wife in \"a stabbing frenzy\" after wrongly believing he was not the father of their two children.",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37154130",
+      "date": "Mon, 22 Aug 2016 14:37:19 GMT"
+    },
+    {
+      "title": "Boy, 3, injured by fallen wall in Darlington carpet shop",
+      "description": "A three-year-old boy suffers a head injury when a plasterboard wall falls on him in a carpet shop.",
+      "link": "http://www.bbc.co.uk/news/uk-england-tees-37152462",
+      "date": "Mon, 22 Aug 2016 11:00:22 GMT"
+    },
+    {
+      "title": "Chorley pizza delivery driver shot in head",
+      "description": "A pizza delivery driver is shot in the head with an air gun as she delivers food to a home.",
+      "link": "http://www.bbc.co.uk/news/uk-england-lancashire-37152700",
+      "date": "Mon, 22 Aug 2016 09:04:44 GMT"
+    },
+    {
+      "title": "Rotherham MPs face electoral expenses fraud probe",
+      "description": "Allegations that three South Yorkshire MPs committed expenses fraud during the 2015 general election are being investigated by police.",
+      "link": "http://www.bbc.co.uk/news/uk-england-south-yorkshire-37153390",
+      "date": "Mon, 22 Aug 2016 09:29:45 GMT"
+    },
+    {
+      "title": "Ex-priest Laurence Soper in court on child sex abuse charges",
+      "description": "A former Roman Catholic priest accused of historical sex offences against five victims appears in court after being returned to the UK from Kosovo.",
+      "link": "http://www.bbc.co.uk/news/uk-37151086",
+      "date": "Mon, 22 Aug 2016 14:03:49 GMT"
+    },
+    {
+      "title": "Pioneering TV weatherman Trevor Baker dies aged 94",
+      "description": "Pioneering TV weatherman Trevor Baker has died at the age of 94, ITV announces.",
+      "link": "http://www.bbc.co.uk/news/uk-england-37152518",
+      "date": "Mon, 22 Aug 2016 12:06:38 GMT"
+    },
+    {
+      "title": "Team GB makes history: Watch the highlights",
+      "description": "Team GB is second in the Rio Olympics medals table - watch some of the highlights.",
+      "link": "http://www.bbc.co.uk/news/uk-37156652",
+      "date": "Mon, 22 Aug 2016 11:56:12 GMT"
+    },
+    {
+      "title": "Toxic shock warning: Toddler lost legs after misdiagnosis",
+      "description": "A mother is keen to raise awareness of toxic shock syndrome after her son's case was misdiagnosed as tonsillitis.",
+      "link": "http://www.bbc.co.uk/news/health-37156655",
+      "date": "Mon, 22 Aug 2016 12:20:22 GMT"
+    },
+    {
+      "title": "Meet the professional online gambler",
+      "description": "Donald, 26, talks through his day as an professional online poker player and explains why he doesn't think it has a future.",
+      "link": "http://www.bbc.co.uk/news/uk-37135648",
+      "date": "Mon, 22 Aug 2016 06:01:17 GMT"
+    },
+    {
+      "title": "Labour leadership contest in numbers",
+      "description": "BBC News looks at the Labour leadership contest in numbers.",
+      "link": "http://www.bbc.co.uk/news/uk-politics-37155882",
+      "date": "Mon, 22 Aug 2016 13:57:12 GMT"
+    },
+    {
+      "title": "GWR locomotive's new bus depot home",
+      "description": "A steam train aficionado has bought a former GWR locomotive to restore in his Weston-super-Mare bus depot.",
+      "link": "http://www.bbc.co.uk/news/uk-england-bristol-37154389",
+      "date": "Mon, 22 Aug 2016 11:06:03 GMT"
+    },
+    {
+      "title": "Unseasonably stormy weather behind UK sea deaths",
+      "description": "Coastguards are warning people to stay a safe distance from rough seas after six people died around Britain.",
+      "link": "http://www.bbc.co.uk/news/uk-37153321",
+      "date": "Mon, 22 Aug 2016 07:55:39 GMT"
+    },
+    {
+      "title": "Edinburgh schools: 'Children shelter under that wall'",
+      "description": "Parents say it is too difficult to comprehend what might have happened if a school wall which fell in strong winds had come down during school hours.",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-37134301",
+      "date": "Mon, 22 Aug 2016 05:20:25 GMT"
+    },
+    {
+      "title": "BBC News Channel",
+      "description": "Britain's most-watched news channel, delivering breaking news and analysis all day, every day.",
+      "link": "http://www.bbc.co.uk/news/10318089",
+      "date": "Wed, 16 Mar 2016 12:34:37 GMT"
+    },
+    {
+      "title": "Derby lads party in Reading after football goal challenge",
+      "description": "A group of lads from Derby end up in Reading for a night out after using Saturday's football results to decide their party destination.",
+      "link": "http://www.bbc.co.uk/news/uk-england-37155208",
+      "date": "Mon, 22 Aug 2016 14:32:20 GMT"
+    },
+    {
+      "title": "Car comes to rest on roof of Fiat 500 in Glasgow",
+      "description": "Police were called to an unusual sight in Glasgow's west end over the weekend after an unoccupied car ended up on the roof of another vehicle.",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37154123",
+      "date": "Mon, 22 Aug 2016 09:14:44 GMT"
+    },
+    {
+      "title": "Newspaper headlines: Golden memories from GB's Olympics success",
+      "description": "Team GB's success at the Rio Olympics dominates the front pages, while debate about the economic consequences of Brexit also appears.",
+      "link": "http://www.bbc.co.uk/news/blogs-the-papers-37151075",
+      "date": "Mon, 22 Aug 2016 09:26:02 GMT"
+    },
+    {
+      "title": "Spider silk",
+      "description": "Spider silk is used to create a superlens for a microscope, allowing Bangor University scientists to view objects previously deemed \"invisible\".",
+      "link": "http://www.bbc.co.uk/news/uk-wales-north-west-wales-37154394",
+      "date": "Mon, 22 Aug 2016 11:27:30 GMT"
+    },
+    {
+      "title": "Swiss role",
+      "description": "Brexit complicates Swiss efforts to reach a deal with the EU on immigration, the BBC's Imogen Foulkes writes.",
+      "link": "http://www.bbc.co.uk/news/world-europe-37155058",
+      "date": "Mon, 22 Aug 2016 12:24:29 GMT"
+    },
+    {
+      "title": "‘Respect the water'",
+      "description": "Six people died around the UK and Channel Islands coastline in a series of incidents at the weekend - so can people stay safe at the coast?",
+      "link": "http://www.bbc.co.uk/news/uk-37152592",
+      "date": "Mon, 22 Aug 2016 13:00:28 GMT"
+    },
+    {
+      "title": "Historic 'cots' sail again ",
+      "description": "A race involving traditional wooden boats takes place on Lough Erne for the first time in more than a century",
+      "link": "http://www.bbc.co.uk/news/uk-northern-ireland-37132017",
+      "date": "Mon, 22 Aug 2016 06:14:00 GMT"
+    },
+    {
+      "title": "Well qualified",
+      "description": "Wimbledon underdog Marcus Willis coaches at his home tennis club for the first time since playing seven-times winner Roger Federer.",
+      "link": "http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-37148520",
+      "date": "Sun, 21 Aug 2016 14:03:41 GMT"
+    },
+    {
+      "title": "Air crash survivors",
+      "description": "One year on from the Shoreham air crash, survivors have been recalling their experiences.",
+      "link": "http://www.bbc.co.uk/news/uk-england-sussex-37117684",
+      "date": "Sat, 20 Aug 2016 23:49:04 GMT"
+    },
+    {
+      "title": "Essex dilemma",
+      "description": "Large container ships passing close to the site of a historically significant shipwreck have caused its condition to deteriorate rapidly in the last year, divers say.",
+      "link": "http://www.bbc.co.uk/news/uk-england-essex-37116685",
+      "date": "Fri, 19 Aug 2016 23:24:54 GMT"
+    },
+    {
+      "title": "Wining kids",
+      "description": "A survey has found that half of parents with children under 14 let them drink at home - but why do parents allow this?",
+      "link": "http://www.bbc.co.uk/news/uk-37129850",
+      "date": "Fri, 19 Aug 2016 14:41:01 GMT"
+    },
+    {
+      "title": "The big choke",
+      "description": "London Mayor Sadiq Khan says Oxford Street is the world's most polluted road. Is he right?",
+      "link": "http://www.bbc.co.uk/news/uk-politics-37131138",
+      "date": "Fri, 19 Aug 2016 16:34:20 GMT"
+    }
+  ]
+}BBC_RSS_Reader.Program+BBCInformation
+{
+  "title": "BBC News - UK",
+  "link": "http://www.bbc.co.uk/news/",
+  "description": "BBC News - UK",
+  "items": [
+    {
+      "title": "Ex-DJ Chris Denning admits child sex offences",
+      "description": "Former BBC Radio 1 DJ Chris Denning pleads guilty to 21 child sex offences between 1969 and 1986, following a police inquiry into a popular teenage disco which ran for four decades in Surrey.",
+      "link": "http://www.bbc.co.uk/news/uk-37154763",
+      "date": "Mon, 22 Aug 2016 12:44:11 GMT"
+    },
+    {
+      "title": "Prison extremists to be put in special units in jails",
+      "description": "Extremist prisoners who \"seek to poison the minds of others\" will be put in special units in England and Wales, Justice Secretary Liz Truss has said.",
+      "link": "http://www.bbc.co.uk/news/uk-37151089",
+      "date": "Mon, 22 Aug 2016 14:17:02 GMT"
+    },
+    {
+      "title": "Three rescues for holidaymaker cut off by Cornwall tide",
+      "description": "A young woman holidaying in Cornwall is rescued by the same lifeboat crew three times in four days after being cut off by the tide.",
+      "link": "http://www.bbc.co.uk/news/uk-england-cornwall-37154028",
+      "date": "Mon, 22 Aug 2016 13:28:08 GMT"
+    },
+    {
+      "title": "Briton 'dies defusing Islamic State bomb' in Iraq",
+      "description": "A British citizen has been killed in Iraq trying to defuse a bomb left by the so-called Islamic State group, US contractor Janus says.",
+      "link": "http://www.bbc.co.uk/news/uk-37156415",
+      "date": "Mon, 22 Aug 2016 15:10:08 GMT"
+    },
+    {
+      "title": "Labour leadership: Ballot papers for contest being sent out",
+      "description": "The two candidates to become Labour leader urge members to back them as ballot papers begin to be sent to nearly 650,000 people.",
+      "link": "http://www.bbc.co.uk/news/uk-politics-37150553",
+      "date": "Mon, 22 Aug 2016 13:55:42 GMT"
+    },
+    {
+      "title": "Drones seized over HMP Pentonville carrying drugs and phones",
+      "description": "Drones carrying larges amounts of drugs and mobile phones are intercepted by police as they were being flown near a north London jail.",
+      "link": "http://www.bbc.co.uk/news/uk-england-london-37152665",
+      "date": "Mon, 22 Aug 2016 13:06:50 GMT"
+    },
+    {
+      "title": "Lecturer admits killing wife in 'stabbing frenzy' as children slept",
+      "description": "A college lecturer admits killing his wife in \"a stabbing frenzy\" after wrongly believing he was not the father of their two children.",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37154130",
+      "date": "Mon, 22 Aug 2016 14:37:19 GMT"
+    },
+    {
+      "title": "Boy, 3, injured by fallen wall in Darlington carpet shop",
+      "description": "A three-year-old boy suffers a head injury when a plasterboard wall falls on him in a carpet shop.",
+      "link": "http://www.bbc.co.uk/news/uk-england-tees-37152462",
+      "date": "Mon, 22 Aug 2016 11:00:22 GMT"
+    },
+    {
+      "title": "Chorley pizza delivery driver shot in head",
+      "description": "A pizza delivery driver is shot in the head with an air gun as she delivers food to a home.",
+      "link": "http://www.bbc.co.uk/news/uk-england-lancashire-37152700",
+      "date": "Mon, 22 Aug 2016 09:04:44 GMT"
+    },
+    {
+      "title": "Rotherham MPs face electoral expenses fraud probe",
+      "description": "Allegations that three South Yorkshire MPs committed expenses fraud during the 2015 general election are being investigated by police.",
+      "link": "http://www.bbc.co.uk/news/uk-england-south-yorkshire-37153390",
+      "date": "Mon, 22 Aug 2016 09:29:45 GMT"
+    },
+    {
+      "title": "Ex-priest Laurence Soper in court on child sex abuse charges",
+      "description": "A former Roman Catholic priest accused of historical sex offences against five victims appears in court after being returned to the UK from Kosovo.",
+      "link": "http://www.bbc.co.uk/news/uk-37151086",
+      "date": "Mon, 22 Aug 2016 14:03:49 GMT"
+    },
+    {
+      "title": "Pioneering TV weatherman Trevor Baker dies aged 94",
+      "description": "Pioneering TV weatherman Trevor Baker has died at the age of 94, ITV announces.",
+      "link": "http://www.bbc.co.uk/news/uk-england-37152518",
+      "date": "Mon, 22 Aug 2016 12:06:38 GMT"
+    },
+    {
+      "title": "Team GB makes history: Watch the highlights",
+      "description": "Team GB is second in the Rio Olympics medals table - watch some of the highlights.",
+      "link": "http://www.bbc.co.uk/news/uk-37156652",
+      "date": "Mon, 22 Aug 2016 11:56:12 GMT"
+    },
+    {
+      "title": "Toxic shock warning: Toddler lost legs after misdiagnosis",
+      "description": "A mother is keen to raise awareness of toxic shock syndrome after her son's case was misdiagnosed as tonsillitis.",
+      "link": "http://www.bbc.co.uk/news/health-37156655",
+      "date": "Mon, 22 Aug 2016 12:20:22 GMT"
+    },
+    {
+      "title": "Meet the professional online gambler",
+      "description": "Donald, 26, talks through his day as an professional online poker player and explains why he doesn't think it has a future.",
+      "link": "http://www.bbc.co.uk/news/uk-37135648",
+      "date": "Mon, 22 Aug 2016 06:01:17 GMT"
+    },
+    {
+      "title": "Labour leadership contest in numbers",
+      "description": "BBC News looks at the Labour leadership contest in numbers.",
+      "link": "http://www.bbc.co.uk/news/uk-politics-37155882",
+      "date": "Mon, 22 Aug 2016 13:57:12 GMT"
+    },
+    {
+      "title": "GWR locomotive's new bus depot home",
+      "description": "A steam train aficionado has bought a former GWR locomotive to restore in his Weston-super-Mare bus depot.",
+      "link": "http://www.bbc.co.uk/news/uk-england-bristol-37154389",
+      "date": "Mon, 22 Aug 2016 11:06:03 GMT"
+    },
+    {
+      "title": "Unseasonably stormy weather behind UK sea deaths",
+      "description": "Coastguards are warning people to stay a safe distance from rough seas after six people died around Britain.",
+      "link": "http://www.bbc.co.uk/news/uk-37153321",
+      "date": "Mon, 22 Aug 2016 07:55:39 GMT"
+    },
+    {
+      "title": "Edinburgh schools: 'Children shelter under that wall'",
+      "description": "Parents say it is too difficult to comprehend what might have happened if a school wall which fell in strong winds had come down during school hours.",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-37134301",
+      "date": "Mon, 22 Aug 2016 05:20:25 GMT"
+    },
+    {
+      "title": "BBC News Channel",
+      "description": "Britain's most-watched news channel, delivering breaking news and analysis all day, every day.",
+      "link": "http://www.bbc.co.uk/news/10318089",
+      "date": "Wed, 16 Mar 2016 12:34:37 GMT"
+    },
+    {
+      "title": "Derby lads party in Reading after football goal challenge",
+      "description": "A group of lads from Derby end up in Reading for a night out after using Saturday's football results to decide their party destination.",
+      "link": "http://www.bbc.co.uk/news/uk-england-37155208",
+      "date": "Mon, 22 Aug 2016 14:32:20 GMT"
+    },
+    {
+      "title": "Car comes to rest on roof of Fiat 500 in Glasgow",
+      "description": "Police were called to an unusual sight in Glasgow's west end over the weekend after an unoccupied car ended up on the roof of another vehicle.",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37154123",
+      "date": "Mon, 22 Aug 2016 09:14:44 GMT"
+    },
+    {
+      "title": "Newspaper headlines: Golden memories from GB's Olympics success",
+      "description": "Team GB's success at the Rio Olympics dominates the front pages, while debate about the economic consequences of Brexit also appears.",
+      "link": "http://www.bbc.co.uk/news/blogs-the-papers-37151075",
+      "date": "Mon, 22 Aug 2016 09:26:02 GMT"
+    },
+    {
+      "title": "Spider silk",
+      "description": "Spider silk is used to create a superlens for a microscope, allowing Bangor University scientists to view objects previously deemed \"invisible\".",
+      "link": "http://www.bbc.co.uk/news/uk-wales-north-west-wales-37154394",
+      "date": "Mon, 22 Aug 2016 11:27:30 GMT"
+    },
+    {
+      "title": "Swiss role",
+      "description": "Brexit complicates Swiss efforts to reach a deal with the EU on immigration, the BBC's Imogen Foulkes writes.",
+      "link": "http://www.bbc.co.uk/news/world-europe-37155058",
+      "date": "Mon, 22 Aug 2016 12:24:29 GMT"
+    },
+    {
+      "title": "‘Respect the water'",
+      "description": "Six people died around the UK and Channel Islands coastline in a series of incidents at the weekend - so can people stay safe at the coast?",
+      "link": "http://www.bbc.co.uk/news/uk-37152592",
+      "date": "Mon, 22 Aug 2016 13:00:28 GMT"
+    },
+    {
+      "title": "Historic 'cots' sail again ",
+      "description": "A race involving traditional wooden boats takes place on Lough Erne for the first time in more than a century",
+      "link": "http://www.bbc.co.uk/news/uk-northern-ireland-37132017",
+      "date": "Mon, 22 Aug 2016 06:14:00 GMT"
+    },
+    {
+      "title": "Well qualified",
+      "description": "Wimbledon underdog Marcus Willis coaches at his home tennis club for the first time since playing seven-times winner Roger Federer.",
+      "link": "http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-37148520",
+      "date": "Sun, 21 Aug 2016 14:03:41 GMT"
+    },
+    {
+      "title": "Air crash survivors",
+      "description": "One year on from the Shoreham air crash, survivors have been recalling their experiences.",
+      "link": "http://www.bbc.co.uk/news/uk-england-sussex-37117684",
+      "date": "Sat, 20 Aug 2016 23:49:04 GMT"
+    },
+    {
+      "title": "Essex dilemma",
+      "description": "Large container ships passing close to the site of a historically significant shipwreck have caused its condition to deteriorate rapidly in the last year, divers say.",
+      "link": "http://www.bbc.co.uk/news/uk-england-essex-37116685",
+      "date": "Fri, 19 Aug 2016 23:24:54 GMT"
+    },
+    {
+      "title": "Wining kids",
+      "description": "A survey has found that half of parents with children under 14 let them drink at home - but why do parents allow this?",
+      "link": "http://www.bbc.co.uk/news/uk-37129850",
+      "date": "Fri, 19 Aug 2016 14:41:01 GMT"
+    },
+    {
+      "title": "The big choke",
+      "description": "London Mayor Sadiq Khan says Oxford Street is the world's most polluted road. Is he right?",
+      "link": "http://www.bbc.co.uk/news/uk-politics-37131138",
+      "date": "Fri, 19 Aug 2016 16:34:20 GMT"
+    }
+  ]
+}
