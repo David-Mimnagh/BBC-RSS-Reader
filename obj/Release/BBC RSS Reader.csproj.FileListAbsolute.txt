@@ -1,0 +1,7 @@
+F:\Repositories\BBC RSS Reader\bin\Release\BBC RSS Reader.exe.config
+F:\Repositories\BBC RSS Reader\bin\Release\BBC RSS Reader.exe
+F:\Repositories\BBC RSS Reader\bin\Release\BBC RSS Reader.pdb
+F:\Repositories\BBC RSS Reader\bin\Release\Newtonsoft.Json.dll
+F:\Repositories\BBC RSS Reader\bin\Release\Newtonsoft.Json.xml
+F:\Repositories\BBC RSS Reader\obj\Release\BBC RSS Reader.exe
+F:\Repositories\BBC RSS Reader\obj\Release\BBC RSS Reader.pdb
